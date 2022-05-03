@@ -1,0 +1,31 @@
+# main links links
+main:
+
+  - title: "Publications"
+    url: "/publications"
+  
+  - title: "Research"
+    url: "/research"
+    
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Teaching"
+    url: "/teaching" 
+    
+#   - title: "Students"
+#     url: "/students"
+        
+  - title: "Services"
+    url: "/services"
+  
+  - title: "Resources"
+    url: "/resources"
+
+  - title: "Miscellaneous"
+    url: "/miscellaneous"
+
+  
