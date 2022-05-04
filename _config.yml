@@ -11,9 +11,9 @@ title                    : "Zhenlin Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Zhenlin Wu"
 description              : &description "Ph.D student of Microelectronics, Hong Kong University of Science and Technology (Guangzhou)"
-url                      : https://zlwu92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhenlin-work.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zlwu92/zlwu92.github.io"
+repository               : "zhenlin-work/zhenlin-work.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,8 @@ analytics:
 author:
   name             : "Zhenlin Wu"
   avatar           : "me.jpg"
-  bio              : "Ph.D student of <br> <a href = \"https://hkust-gz.edu.cn/academics/four-hubs/function-hub/microelectronics\">Microelectronics</a> <br> <a href = \"https://hkust-gz.edu.cn\">Hong Kong University of Science and Technology (Guangzhou)</a>"
+#   bio              : "Ph.D student of <br> <a href = \"https://hkust-gz.edu.cn/academics/four-hubs/function-hub/microelectronics\">Microelectronics</a> <br> <a href = \"https://hkust-gz.edu.cn\">Hong Kong University of Science and Technology (Guangzhou)</a>"
+  bio              : "HPCer"
   location         : "China"
   employer         : #"UMass Amhesrt"
   pubmed           : 
@@ -98,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zlwu92"
+  github           : "zhenlin-work"
   google_plus      :
   keybase          :
   instagram        :
