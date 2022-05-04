@@ -1,1 +1,5 @@
-- [Jekyll 中文网站](http://jekyllcn.com/)
+- [GraphIt](https://graphit-lang.org/): MIT graph compiler project.
+- [dgSPARSE](https://dgsparse.github.io/): Tsinghua sparse graph processing project.
+- [Qiskit](https://qiskit.org/documentation/getting_started.html/): IBM quantum computing project.
+- [Jekyll](http://jekyllcn.com/) 中文网站.
+- [LeetCode](https://leetcode-cn.com/problemset/all/).
