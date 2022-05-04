@@ -16,7 +16,7 @@ Hi! This is Zhenlin Wu, who is currently working in industry as a HPC engineer i
 
 News
 ----
-- **[Aug. 2022]**: I will be joining HKUST(GZ) as a first year Ph.D. student in Microelectronics Thrust with my advisor Prof. [Hongyuan Liu](https://www.liuhongyuan.com/).
+<!-- - **[Aug. 2022]**: I will be joining HKUST(GZ) as a first year Ph.D. student in Microelectronics Thrust with my advisor Prof. [Hongyuan Liu](https://www.liuhongyuan.com/). -->
 
 
 
