@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Microelectronics, 2022-2025(expected), Hong Kong University of Science and Technology (Guangzhou)
+* Ph.D. x~x~x~
 * MSc in Fundamental Mathematics, 2014-2017, Capital Normal University
 * BSc in Information and Computing Science, 2010-2014, Beijing Jiaotong University
 
