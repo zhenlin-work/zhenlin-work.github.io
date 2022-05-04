@@ -2,7 +2,7 @@
 main:
 
   - title: "Publications"
-    url: "/publications"
+    url: "https://zlwu92.github.io/publications"
   
   - title: "Research"
     url: "/research"
