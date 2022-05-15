@@ -14,3 +14,22 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
+
+**Conferences**
+
+- **[HPDC'2019]XBFS: eXploring Runtime Optimizations for Breadth-First Search on GPUs.** [[PDF](http://zlwu92.github.io/files/XBFS.pdf)]
+<br> Anil Gaihre, **Zhenlin Wu**, Fan Yao, Hang Liu. 
+<br> Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing June 2019 Pages 121–131.
+
+
+
+
+**Journals**
+
+- **TBC** 
+
+
+
+**Workshop & Poster Papers**
+
+- **TBC**
