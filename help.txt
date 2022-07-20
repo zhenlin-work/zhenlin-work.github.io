@@ -1,2 +1,0 @@
-Change navigation: _data > navigation.yml
-Change 1st page: _pages > about.md
